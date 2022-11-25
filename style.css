@@ -1,0 +1,42 @@
+
+.container-fluid{
+    margin-top: 50px;
+    padding: 60px;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+    border: 1px solid blue;
+    display: flex;
+    color: lightpink;
+    box-shadow: 20px;
+}
+
+.navbar-brand{
+    margin: 30px;
+    padding: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: yellowgreen;
+}
+
+#getdictionary{
+    background-color: blue;
+    text-align: left;
+    box-sizing: content-box;
+}
+
+
+.text{
+    text-align: center;
+    
+    border-radius: 3px;
+
+}
+
+body{
+    background-image: url("https://www.rd.com/wp-content/uploads/2019/09/old-dictionary-e1568641564797.jpg");
+
+}
+
+
